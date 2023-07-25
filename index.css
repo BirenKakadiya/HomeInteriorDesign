@@ -1,0 +1,484 @@
+.step1 {
+    width: 100%;
+    height: 870px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(IMAGE/jhj-min.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.aa1 {
+    display: inline-block;
+    width: 380px;
+    font-size: 25px;
+    font-weight: 100;
+    position: relative;
+    left: 600px;
+    bottom: 379px;
+}
+
+.aa2 {
+    display: inline-block;
+    width: 280px;
+    font-size: 20px;
+    position: relative;
+    left: 660px;
+    bottom: 141px;
+}
+
+.a3 {
+    width: 14px;
+    height: 570px;
+    display: inline-block;
+    background-color: #e8b846;
+    position: relative;
+    left: 617px;
+    top: 58px;
+}
+
+.bt1 {
+    width: 200px;
+    height: 55px;
+    border: none;
+    font-size: 0.875rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    border-radius: 10px;
+    background-color: #e8b846;
+}
+
+.step2 {
+    width: 100%;
+    height: 320px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #d9d9d9;
+}
+
+.bb1 {
+    width: 372px;
+    height: 300px;
+    display: inline-block;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    bottom: 33px;
+    left: 220px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+.b1 {
+    width: 103px;
+    height: 96px;
+    background-color: #e8b846;
+    position: relative;
+    bottom: 45px;
+    left: 135px;
+}
+
+.b2 {
+    position: relative;
+    top: 15px;
+}
+
+.b3 {
+    position: relative;
+    bottom: 25px;
+    font-size: 23px;
+}
+
+.b4 {
+    width: 300px;
+    font-size: 20px;
+    position: relative;
+    left: 35px;
+    bottom: 25px;
+    line-height: 30px;
+    color: rgb(106, 106, 106);
+}
+
+.step3 {
+    width: 100%;
+    height: 1015px;
+    background-color: #e8b846;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.cc1 {
+    position: relative;
+    left: 270px;
+    top: 165px;
+}
+
+.cc2 {
+    width: 430px;
+    height: 524px;
+    background-color: white;
+    position: relative;
+    left: 915px;
+    bottom: 160px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+.c1 {
+    font-size: 50px;
+    position: relative;
+    left: 30px;
+    top: 25px;
+}
+
+.c2 {
+    width: 340px;
+    position: relative;
+    left: 30px;
+    top: 25px;
+    font-size: 1.25rem;
+    font-weight: 300;
+    line-height: 35px;
+    color: rgb(106, 106, 106);
+}
+
+.bti1 {
+    position: relative;
+    left: 30px;
+    top: 40px;
+}
+
+.step4 {
+    width: 100%;
+    height: 691px;
+    background-color: #d9d9d9;
+    position: relative;
+    bottom: 41px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.d1 {
+    font-size: 3rem;
+    text-align: center;
+    position: relative;
+    top: 85px;
+}
+
+.d2 {
+    width: 555px;
+    height: 200px;
+    font-size: 1.25rem;
+    font-weight: 300;
+    background-color: #ffffff;
+    display: inline-block;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+.d3 {
+    width: 440px;
+    line-height: 1.6;
+    position: relative;
+    left: 45px;
+    top: 17px;
+    display: inline-block;
+    color: rgb(88, 88, 88);
+}
+
+.d4 {
+    width: 48px;
+    height: 97px;
+    background-color: #e8b846;
+    display: inline-block;
+    position: relative;
+    left: 30px;
+}
+
+.d11 {
+    position: relative;
+    left: 202px;
+    top: 80px;
+}
+
+.d12 {
+    position: relative;
+    left: 202px;
+    top: 110px;
+}
+
+.d13 {
+    position: relative;
+    left: 227px;
+}
+
+.step5 {
+    width: 100%;
+    height: 1500px;
+    background-color: #d9d9d9;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.ee1 {
+    width: 629px;
+    height: 426px;
+    background-color: white;
+    position: relative;
+    left: 454px;
+    top: 80px;
+    z-index: 1;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+.e1 {
+    font-size: 50px;
+}
+
+.e2 {
+    width: 500px;
+    font-size: 23px;
+    line-height: 33px;
+}
+
+.e11 {
+    position: relative;
+    left: 70px;
+    top: 30px;
+}
+
+.ee2 {
+    display: inline-block;
+    position: relative;
+    left: 190px;
+    bottom: 158px;
+}
+
+.ee3 {
+    display: inline-block;
+    position: relative;
+    left: 293px;
+    bottom: 20px;
+}
+
+.ee4 {
+    display: inline-block;
+    position: relative;
+    left: 430px;
+    bottom: 69px;
+
+}
+
+.e4 {
+    width: 10px;
+    height: 180px;
+    position: relative;
+    top: 60px;
+    right: 170px;
+    background-color: #666666;
+}
+
+.e5 {
+    width: 453px;
+    height: 140px;
+    line-height: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.125rem;
+    position: relative;
+    bottom: 103px;
+    right: 116px;
+    color: #808080;
+}
+
+.ee5 {
+    display: inline-block;
+    position: relative;
+    left: 541px;
+    bottom: 200px;
+}
+
+.step6 {
+    width: 100%;
+    height: 918px;
+    background-color: #e8b846;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.ff1 {
+    display: inline-block;
+    position: relative;
+    left: 300px;
+    top: 90px;
+
+}
+
+.ff2 {
+    width: 462px;
+    height: 549px;
+    display: inline-block;
+    z-index: 1;
+    position: relative;
+    left: 230px;
+    bottom: 18px;
+    background-color: white;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+.f1 {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.f2 {
+    width: 400px;
+    font-size: 22px;
+    line-height: 40px;
+}
+
+.f01 {
+    position: relative;
+    left: 35px;
+}
+
+.step7 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 100%;
+    height: 1491px;
+    background-color: #d9d9d9;
+}
+
+.g1 {
+    width: 552px;
+    height: 499px;
+    background-color: white;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
+    position: relative;
+    left: 130px;
+    top: 115px;
+}
+
+.gg2 {
+    display: inline-block;
+    z-index: 1;
+    position: relative;
+    left: 200px;
+    top: 70px;
+}
+
+.gg3 {
+    display: inline-block;
+    position: relative;
+    bottom: 152px;
+}
+
+.f02 {
+    position: relative;
+    left: 35px;
+    top: 30px;
+}
+
+.g2 {
+    display: inline-block;
+    position: relative;
+    left: 202px;
+    bottom: 133px;
+}
+
+.g3 {
+    display: inline-block;
+    position: relative;
+    left: 435px;
+    bottom: 70px;
+}
+
+.step8 {
+    width: 100%;
+    height: 737px;
+    background-color: #e8b846;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.h1 {
+    width: 245px;
+    height: 273px;
+    background-color: #292d33;
+    color: #ffffff;
+    text-align: center;
+    position: relative;
+    left: 290px;
+    top: 100px;
+    z-index: 1;
+}
+
+.h21 {
+    position: relative;
+    top: 106px;
+}
+
+.h01 {
+    position: relative;
+    top: 115px;
+}
+
+.hh1 {
+    display: inline-block;
+}
+
+.h11 {
+    position: relative;
+    top: 40px;
+}
+
+.h4 {
+    width: 190px;
+    font-size: 20px;
+    position: relative;
+    left: 28px;
+}
+
+.hh2 {
+    display: inline-block;
+}
+
+.hh22 {
+    width: 710px;
+    height: 627px;
+    background-color: #ffffff;
+    position: relative;
+    left: 720px;
+    bottom: 519px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+.bt2 {
+    width: 485px;
+    height: 40px;
+    background-color: #e8b846;
+    border: none;
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+}
+
+.j1 {
+    text-align: center;
+    position: relative;
+    top: 110px;
+    left: 30px;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.j2 {
+    width: 485px;
+    height: 30px;
+    background-color: rgb(221, 221, 221);
+    border: 0;
+}
+
+.j3 {
+    width: 485px;
+    height: 150px;
+    background-color: rgb(221, 221, 221);
+    border: 0;
+}
+
+.j5 {
+    position: relative;
+    left: 141px;
+    top: 100px;
+    text-align: center;
+}
